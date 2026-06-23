@@ -1,12 +1,6 @@
 # RoadTrack
 Machine Learning-based system for monitoring road construction using image processing. The platform analyzes uploaded site images to detect construction stages, track progress, and generate reports, improving transparency, efficiency, and decision-making in infrastructure projects.
 
-🌐 Live Demo
-
-🔗 https://mumbai-residential-real-estate-intelligence-system-43v3xf6tqtx.streamlit.app/
-
-An interactive data analytics and machine learning platform for analyzing Mumbai's residential rental market. The application provides rental price prediction using Random Forest, market trend visualization, location-based insights, and a dataset-powered assistant to support data-driven decision making.
-
 # 🚧 Machine Learning Based Road Construction Monitoring System
 
 ## 📌 Overview
